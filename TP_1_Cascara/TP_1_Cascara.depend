@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1504919141 source:c:\users\exopc\desktop\tp_1_cascara\tp_1_cascara\biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	"Biblioteca.h"
+	<math.h>
+
+1504916477 c:\users\exopc\desktop\tp_1_cascara\tp_1_cascara\biblioteca.h
+
+1504917458 source:c:\users\exopc\desktop\tp_1_cascara\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Biblioteca.h"
+	<math.h>
+
